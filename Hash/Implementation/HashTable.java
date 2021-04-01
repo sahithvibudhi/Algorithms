@@ -1,4 +1,4 @@
-public class HashTable {
+class HashTable {
     private Node[] table;
 
     class Node {

@@ -30,6 +30,8 @@ Constraints:
 
 [Leetcode](https://leetcode.com/problems/3sum/)
 
+Solution uses 2 pointer technique
+
 Submission Stats:
 ```
 Runtime: 487 ms, faster than 16.36% of Java online submissions for 3Sum.
