@@ -7,6 +7,12 @@ Solutions to different coding questions from platforms like Leetcode, Interviewb
 ## Data Structures
 - [HashTable Implementation](Hash/Implementation)
 
+
+## Algorithms
+
+### Array
+- [3 Sum](Array/3Sum)
+
 ### Dynamic Programming:
 - [Climbing Stairs](Dynamic%20Programming/Climbing%20Stairs)
 - [Longest Common Subsequence](Dynamic%20Programming/Longest%20Common%20Subsequence/Readme.md)
