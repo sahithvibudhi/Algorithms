@@ -8,6 +8,7 @@ Solutions to different coding questions from platforms like Leetcode, Interviewb
 - [HashTable Implementation](Hash/Implementation)
 
 ### Dynamic Programming:
+- [Climbing Stairs](Dynamic%20Programming/Climbing%20Stairs)
 - [Longest Common Subsequence](Dynamic%20Programming/Longest%20Common%20Subsequence/Readme.md)
 
 **Sources:**
