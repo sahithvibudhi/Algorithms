@@ -12,6 +12,7 @@ Solutions to different coding questions from platforms like Leetcode, Interviewb
 
 ### Array
 - [3 Sum](Array/3Sum)
+- [Conatiner with most water](Array/Container%20With%20Most%20Water)
 
 ### Dynamic Programming:
 - [Climbing Stairs](Dynamic%20Programming/Climbing%20Stairs)
