@@ -11,6 +11,7 @@ Solutions to different coding questions from platforms like Leetcode, Interviewb
 ## Algorithms
 
 ### Array
+- [2 Sum](Array/Two%20Sum)
 - [3 Sum](Array/3Sum)
 - [Conatiner with most water](Array/Container%20With%20Most%20Water)
 
